@@ -88,6 +88,3 @@ Este proyecto de análisis de datos da respuesta directa a las siguientes pregun
 * **Git & GitHub:** Control de versiones y despliegue del proyecto.
 
 ---
-
-## Autor
-Desarrollado como parte de proyectos avanzados en ingeniería de datos y business intelligence. ¡Cualquier sugerencia o contribución es bienvenida!
